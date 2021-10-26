@@ -3,9 +3,9 @@
 
 
 - 🔭 Estou autalmente trabalhando na empresa FitBank como desenvolvedor e analista.
-- 🌱 Aprendendo sobre javaScript, html css,C#. Entre outras coisas ...sempre em movimento.
+- 🌱 Aprendendo sobre algumas linguagens como: javaScript, Python, C#, Java . Entre outras coisas ...sempre em movimento.
 - 👯 Sempre é bom ter pessoas por perto para trocar ideias e conhecimento e claro uma boa companhia, então qualquer coisa pode chamar:
-- 🤔 É sempre bom ter ideias e críticas construtivas, então se quiser deixar uma dica pode deixar.
+- 🤔 É sempre bom ter ideias e críticas construtivas, então se quiser deixar uma dica pode me chamar nos meus canais.
 - 💬 Quer saber alguam coisa ...? Chama nos canais pra bater aquele papo.
 - 📫 Tenho dois emails para contato, pode me cahamar por lá: victomina@gmail.com, victomina@protonmail.com;
 
