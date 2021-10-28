@@ -24,7 +24,7 @@
   <img align="center" alt="Victor-CSS" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg">
   <img align="center" alt="Victor-Python" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg">
   <img align="center" alt="Victor-Csharp" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/csharp/csharp-original.svg">
- <img align="right" alt="Victor-pic" height="150" style="border-radius:50px;" src="https://s3.ezgif.com/save/ezgif-3-522cb43faf48.gif">
+ <img align="right" alt="Victor-pic" height="150" style="border-radius:50px;" src="https://avatars.githubusercontent.com/u/18745876?s=400&u=c19301afbdc63ab1122c4483a7a5043cc877ae4a&v=4">
 </div>
   ## Minhas redes para contato##
  <div>
