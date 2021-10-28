@@ -2,7 +2,7 @@
 
 
 
-- 🔭 Estou autalmente trabalhando na empresa FitBank como desenvolvedor e analista.
+- 🔭 Estou autalmente trabalhando na empresa FitBank como desenvolvedor e analista de software .Net
 - 🌱 Aprendendo sobre algumas linguagens como: javaScript, Python, C#, Java . Entre outras coisas ...sempre em movimento.
 - 👯 Sempre é bom ter pessoas por perto para trocar ideias e conhecimento e claro uma boa companhia, então qualquer coisa pode chamar:
 - 🤔 É sempre bom ter ideias e críticas construtivas, então se quiser deixar uma dica pode me chamar nos meus canais.
