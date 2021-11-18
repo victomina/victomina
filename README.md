@@ -2,7 +2,7 @@
 
 
 
-- 🔭 Estou autalmente trabalhando na empresa FitBank como desenvolvedor e analista de software .Net
+- 🔭 Estou autalmente trabalhando na empresa <a href="https://fitbank.com.br/" target="_blank">FitBank  </a>  como desenvolvedor e analista de software .Net
 - 🌱 Aprendendo sobre algumas linguagens como: javaScript, Python, C#, Java . Entre outras coisas ...sempre em movimento.
 - 👯 Sempre é bom ter pessoas por perto para trocar ideias e conhecimento e claro uma boa companhia, então qualquer coisa pode chamar:
 - 📫 Tenho dois emails para contato, pode me cahamar por lá: victomina@gmail.com, victomina@protonmail.com;
