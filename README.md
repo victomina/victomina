@@ -2,7 +2,7 @@
 
 
 
-- 🔭Tenho experiência como desenvolvedor na paltaforma .NET especificamente na linguagem C#, Assim como TDD, desenvolvimento com APIs, SQL, assim como databse ...;
+- 🔭Experiência como desenvolvedor na paltaforma .NET especificamente na linguagem C#, Assim como TDD, desenvolvimento com APIs, SQL, assim como databse ...;
 - 🌱 Aprendendo sobre algumas linguagens como: javaScript, Python, C#, Java . Entre outras coisas ...sempre em movimento.
 - 👯 Sempre é bom ter pessoas por perto para trocar ideias e conhecimento e claro uma boa companhia, então qualquer coisa pode chamar:
      📫 Tenho dois emails para contato, pode me cahamar por lá: victomina@gmail.com, victomina@protonmail.com;
